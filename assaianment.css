@@ -134,9 +134,9 @@ width: 600px;
     display: flex;
     margin: 90px 0px;
 }
-.new-year-offer{
+
    
-}
+
 
 .offer{
   
@@ -227,4 +227,32 @@ right: 600px;
 height: 430px;
 margin-left: 890px;
 
+}
+
+
+.portfolio{
+    margin-top:100px ;
+}
+.portfolio-discript{
+    color: red;
+    font-size: 25px;
+}
+.portfolio-title{
+    font-size: 48px;
+    padding-top: 15px;
+}
+.portfolio-extra{
+    font-size: 20px;
+    padding-top: 20px;
+    width: 896px;
+    line-height:30px ;
+}
+.product{
+    margin-top: 40px;
+    
+}
+.product-style{
+    width: 420px;
+height: 450px;
+margin: 10px;
 }
